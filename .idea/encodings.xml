@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/BankAccount/BankAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount/DepositThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount/WithdrawThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_同步/BankAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_同步/DepositThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_同步/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_同步/WithdrawThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_通信/BankAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_通信/DepositThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_通信/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BankAccount_通信/WithdrawThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/N个6的加法/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/一位十六进制数转十进制/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/多线程_通信/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/父子年龄比较/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/计算器/Main.java" charset="UTF-8" />
+  </component>
+</project>
