@@ -40,9 +40,9 @@ public class Age {
     }
 
     public int Compare(Age fatherage) throws AgeException {
-        int subAge = this.year - fatherage.getYear();
-        if (this.month < fatherage.getMonth()) subAge--;
-        else if (fatherage.getMonth() == this.month && fatherage.getDay() < this.day) subAge--;
+        int fatherdays=fatherage.getYear()*365+fatherage.getMonth()*30+fatherage.getDay();
+        int sondays=year*365+month*30+day;
+        int subAge = (sondays-fatherdays)/365;
         if (subAge > 70) {
             throw new AgeException("too old");
         } else if (subAge < 20) {
