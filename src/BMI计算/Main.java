@@ -7,14 +7,14 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int w = in.nextInt();
         int h = in.nextInt();
-        double BMI = w * 0.45359237 /Math.pow( (h * 0.0254), 2);
-        if(BMI<18.5){
+        double BMI = w * 0.45359237 / Math.pow((h * 0.0254), 2);
+        if (BMI < 18.5) {
             System.out.println("Underweight");
-        }else if(BMI<25.0){
+        } else if (BMI < 25.0) {
             System.out.println("Normal");
-        }else if(BMI<30.0){
+        } else if (BMI < 30.0) {
             System.out.println("Overweight");
-        }else {
+        } else {
             System.out.println("Obese");
         }
     }
